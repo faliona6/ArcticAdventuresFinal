@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1fbe21db6b5f6314297a715e74742f21
+timeCreated: 1503115802
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Salt
+  fontNames:
+  - Salt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 088047d92a8458346958f8042c639a58, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

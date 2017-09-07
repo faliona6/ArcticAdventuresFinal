@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: db19ac9da5d93aa49b248917f0bdcfd1
+timeCreated: 1503115802
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Breakable '
+  fontNames:
+  - 'Breakable '
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 78c07c5c64dc36647a8d251788f49321, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
